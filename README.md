@@ -36,6 +36,8 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 
 .\wintel\Scripts\Activate.ps1
 
+winget install Gyan.FFmpeg
+
 pip install -r requirements.txt
 
 python predator.py
