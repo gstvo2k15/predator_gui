@@ -40,5 +40,5 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 
 pip install -r requirements.txt
 
-python t800.py
+python predator.py
 ```
