@@ -1,11 +1,9 @@
-# re_terminals
-
-# T800 gui generator for videos
-Basic repo for generate T800 gui in your videos
+# Predator thermal vision gui generator for videos
+Basic repo for generate Predator thermal vision gui in your videos
 
 ## Usage
 
-Put your wished video as "input.mp4" and execute with `python t800.py` to generate "t800_hud.mp4" video.
+Put your wished video as "input.mp4" and execute with `python predator.py` to generate "thermal_predator.mp4" video.
 ---
 
 ## 🚀 Installation & Usage
@@ -23,7 +21,7 @@ pip install -r requirements.txt
 
 
 ### **2️⃣ Run the Program**
-`python t800.py`
+`python predator.py`
 
 ### **3️⃣ Deactivate Virtual Environment when finished**
 `
